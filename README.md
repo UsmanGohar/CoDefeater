@@ -13,3 +13,6 @@ This repo contains the datasets (assurance cases) and results for the paper subm
 
 2. Results <br>
 	- The results reported in the paper, including LLM responses (defeaters), Ground-Truth and Closed Coding can be found [here](Results.xlsx) 
+
+
+[1] Rees, Chris, Rolf Lippelt, Marsha Chechik, Lukas Felsberger, Mateo Delgado, Markus Zerlauth, Jeff Joyce et al. Assessing the Usefulness of Assurance Cases: an Experience with the CERN Large Hadron Collider. No. CERN-ACC-2023-0002. 2023.
