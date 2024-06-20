@@ -12,4 +12,4 @@ This repo contains the datasets (assurance cases) and results for the paper subm
 	- [sUAS Battery Case](Datasets/sUAS) <br>
 
 2. Results <br>
-	- The results reported in the paper, including LLM responses (defeaters), Ground-Truth and Closed Coding can be found [here](Results) 
+	- The results reported in the paper, including LLM responses (defeaters), Ground-Truth and Closed Coding can be found [here](Results.xlsx) 
