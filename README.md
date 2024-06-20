@@ -9,7 +9,7 @@ This repo contains the datasets (assurance cases) and results for the paper subm
 
 1. Datasets (Assurace Cases) <br>
 	- Large Hadron Collider (LHC)Machine Protection System (MPS). This assurance case was originally developed by Rees, Chris, et al. 2023 [1]. The [full assurance case](https://cds.cern.ch/record/2854725/files/LHC%20MPS%20-%20Original%20EA_argument%20+%20Preamble.pdf), [related paper](https://cds.cern.ch/record/2854725/files/Manuscript.pdf) and supplementary material can be found [here](https://cds.cern.ch/record/2854725) <br>
-	- [sUAS Battery Case](Datasets/sUAS) <br>
+	- [sUAS Battery Case](sUASBatterySafetyCase-Drawing) <br>
 
 2. Results <br>
 	- The results reported in the paper, including LLM responses (defeaters), Ground-Truth and Closed Coding can be found [here](Results.xlsx) 
